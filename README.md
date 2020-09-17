@@ -89,6 +89,11 @@ now enter this text in Password textbox and click on Check password button. psyc
 ![alt text](https://github.com/Null-byte-00/images/blob/master/psychodecryptdemo.png?raw=true)<br>
 
 Now you got your files back<br>
+
+and you can also see tutorial video here:<br>
+
+[![IMAGE](https://img.youtube.com/vi/a8yX7jojYBo/0.jpg)](https://www.youtube.com/watch?v=a8yX7jojYBo)
+
 Have fun!
 
 
