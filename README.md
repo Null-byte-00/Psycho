@@ -52,7 +52,7 @@ go to Psycho/psycho/main.go and change the settings:
 just go to Psycho/psycho directory and run: <br>
 
 ```
-go build -ldflags -H=windowsgui main
+go build -ldflags -H=windowsgui main.go
 ```
 
 -ldflags -H=windowsgui options will hide the console window
